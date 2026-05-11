@@ -1,7 +1,7 @@
 package com.google.firebase.quickstart.ai.feature.text
 
 import kotlinx.serialization.Serializable
-
+firebase-ai/app/src/main/java/com/google/firebase/quickstart/ai/feature/text/AudioSummarizationViewModel.kt
 import com.google.firebase.Firebase
 import com.google.firebase.ai.Chat
 import com.google.firebase.ai.ai
